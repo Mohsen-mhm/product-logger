@@ -14,7 +14,7 @@ _run project_
 
 --------------------------------------------------
 
-Use the `postMan` or similar platforms to send requests to <checkVersion.php>:
+Use `postMan` or similar platforms to send requests to <checkVersion.php>:
 (Use GET method)
 
 ### Reaquest Header :
