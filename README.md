@@ -20,7 +20,9 @@ Use the `postMan` or similar platforms to send requests to <checkVersion.php>:
 ### Reaquest Header :
 
 Version             :     example(0.0.3)
+
 Resource-Name       :     example(product1)
+
 Additional-info     :     example( json( {"name":"name server","oneCync":"enabale"} ) )
 
 ## Ready to go, Add your product, add new version and edit it on info page then send your request for your products version :)
